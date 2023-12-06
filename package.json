@@ -1,6 +1,6 @@
 {
   "name": "bydcli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a byd cli",
   "main": "index.js",
   "bin": {
@@ -10,7 +10,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "bianyadong",
-  "keywords": ["byd", "@byd/cli", "@byd", "bydcli"],
+  "keywords": [
+    "byd",
+    "@byd/cli",
+    "@byd",
+    "bydcli"
+  ],
   "license": "ISC",
   "homepage": "https://github.com/Ydgent/byd-cli.git",
   "repository": {

@@ -5,7 +5,7 @@ a byd cli (一个简单的脚手架工具)
 ## Installation
 
 ```shell
-npm install @byd/cli -g
+npm install bydcli -g
 ```
 
 ## API
